@@ -3,7 +3,7 @@ import React, { useContext } from 'react'
 import { useParams } from 'react-router-dom'
 import BreadCrum from '../components/breadcrum/BreadCrum'
 import { Context } from '../context/Context'
-import ProductPage from '../components/productpage/productPage'
+import ProductPage from '../components/productpage/ProductPage'
 import Tabs from '../components/tab/Tabs'
 import RelatedProduct from '../components/relatedproduct/RelatedProduct'
 
