@@ -1,7 +1,7 @@
 import React from 'react'
-import Hero from '../components/hero/hero'
 import ShopByCategory from '../components/shopbycategory/ShopByCategory'
 import FeatureProducts from '../components/featureproducts/FeatureProducts'
+import Hero from '../components/hero/Hero'
 
 function Home() {
   return (

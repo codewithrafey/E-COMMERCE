@@ -3,7 +3,7 @@ import banner from '../../assets/banner_main.jpeg'
 import HeroBanner from '../hero_banner/HeroBanner'
 import { Link } from 'react-router-dom'
 
-function hero() {
+function Hero() {
   return (
     <div className="">
 <div className="relative w-full h-screen">
@@ -62,4 +62,4 @@ function hero() {
   )
 }
 
-export default hero
+export default Hero
